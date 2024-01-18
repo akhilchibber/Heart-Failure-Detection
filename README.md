@@ -1,5 +1,4 @@
 # Machine Learning based Heart Failure Detection
-# Deep Learning based Microscopy Segmentation
 <p align="center">
   <img src="https://github.com/akhilchibber/Heart-Failure-Detection/blob/main/Heart-Failure-Detection.gif?raw=true" alt="earthml Logo">
 </p>
